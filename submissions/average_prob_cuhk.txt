@@ -1,0 +1,2 @@
+Sketch Probability = tensor(0.5775)
+Grayscale Probability = tensor(0.4225)
